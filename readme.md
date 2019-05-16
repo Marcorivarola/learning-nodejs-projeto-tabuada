@@ -2,21 +2,21 @@
 
 Este é um projeto para ensino de Node.js. Objetivo deste projeto é criar um site para calcular a tabuada de um numero fornecido por meio de um formulario.
 
-##Pré-requisitos
+## Pré-requisitos
 
 * Node.js (https://node.js.org). Verifique a instalação digitando:
 ``` bash
 $ node --version
 ```
 
-* Cleiente Git (https://git-scm.com). Verifique a instalação digitando:
+* Cliente Git (https://git-scm.com). Verifique a instalação digitando:
 ``` bash
 $ git --version
 ```
 
 ## Instalação
 
-clonar o repositório do Github e usar o 'npm' do Node.js para instalar as dependências de módulos do projeto.
+Clonar o repositório do Github e usar o 'npm' do Node.js para instalar as dependências de módulos do projeto.
 ``` bash
 $ git clone https://github.com/Marcorivarola/learning-nodejs-projeto-tabuada
 $ cd learning-nodejs-projeto-tabuada
@@ -36,9 +36,9 @@ A aplicação está cofigurada para rodar na porta 3000. Para acesar a aplicaç�
 
 O projeto foi desenvolvido com:
 
-* [Node.js] {https://node.js.org} - Plataforma de desenvolvimento Java$cript.
+* [Node.js] {https://node.js.org} - Plataforma de desenvolvimento JavaScript.
 * [Sublime Text] {https://sublimetext.com} - Editor de texto para programação.
 
 ## Autores
 
-* ++Marco Antonio Rivarola De Lima++ - [Marcorivarola] {https://github.com/Marcorivarola/}
+* **Marco Antonio Rivarola De Lima** - [Marcorivarola] {https://github.com/Marcorivarola/}
