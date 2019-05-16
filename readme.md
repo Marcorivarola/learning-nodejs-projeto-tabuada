@@ -8,6 +8,6 @@ Este é um projeto para ensino de Node.js. Objetivo deste projeto é criar um si
 *** bash
 $ node --version
 
-* Cleiente Git (https://got-scm.com). Verifique a instalação digitando:
+* Cleiente Git (https://git-scm.com). Verifique a instalação digitando:
 *** bash
 $ git --version
